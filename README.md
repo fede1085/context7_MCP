@@ -14,7 +14,7 @@ LLMs rely on outdated or generic information about the libraries you use. You ge
 
 ## ✅ With Context7
 
-Context7 MCP pulls up-to-date, version-specific documentation and code examples straight from the source — and places them directly into your prompt.
+Context7 MCP pulls up-to-date, version-specific documentation and code examples straight from the source — and places them directly into your prompt...
 
 Add `use context7` to your prompt in Cursor:
 
