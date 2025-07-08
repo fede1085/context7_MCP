@@ -32,7 +32,7 @@ Context7 fetches up-to-date code examples and documentation right into your LLM'
 - 2️⃣ Tell the LLM to `use context7`
 - 3️⃣ Get working code answers
 
-No tab-switching, no hallucinated APIs that don't exist, no outdated code generations.
+No tab-switching, no hallucinated APIs that don't exist, no outdated code generations..
 
 ## 📚 Adding Projects
 
